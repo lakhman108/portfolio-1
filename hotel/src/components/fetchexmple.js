@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://super-duper-pancake-r9r7pgqxg652p4w-8000.app.github.dev/api/';
+const API_URL = 'https://localhost:8080/api/';
 
 export const getHotels = async () => {
     try {
