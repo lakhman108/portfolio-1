@@ -126,7 +126,7 @@ STATIC_URL = "static/"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://super-duper-pancake-r9r7pgqxg652p4w-8000.app.github.dev",
+    
 ]
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
